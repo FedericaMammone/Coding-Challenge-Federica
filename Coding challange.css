@@ -1,0 +1,76 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'League Spartan', sans-serif;
+}
+
+#container {
+   background-color: rgba(5, 0, 0, 0.5);
+   height: 850px;
+   width: 1200px;
+   margin: auto;
+   margin-top: 2%;
+   border-radius: 20px;
+}
+
+.logo {
+   width: 20%;
+   height: 15%;
+   margin-top: 7%;
+}
+
+header {
+    text-align: center;
+    color: rgb(13, 247, 13);
+}
+
+nav {
+    background-color: rgb(13, 247, 13);
+    text-align: center;
+    margin: 5px 60px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+main > div {
+    color: white;
+    font-size: 15px;
+    margin-left: 60px;
+ }
+ 
+ p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
+
+h4 {
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.Gino {
+    width: 250px;
+    height: 25px;
+    background-color: rgb(228, 175, 78); 
+    border-radius: 3px; 
+    margin-top: 4px;
+}
+
+.Mike {
+    width: 500px;
+    height: 25px;
+    background-color: rgb(22, 192, 22);
+    border-radius: 3px;
+    margin-top: 4px;
+}
+
+.Fede {
+    width: 120px;
+    height: 25px;
+    background-color: rgb(196, 67, 67);
+    border-radius: 3px;
+    margin-top: 4px;
+}
